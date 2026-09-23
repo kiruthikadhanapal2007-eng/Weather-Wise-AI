@@ -1,0 +1,5 @@
+AI WeatherWise is an intelligent weather assistance system designed to help users understand environmental conditions and make informed decisions through AI-powered insights. Built using Node.js, Express.js, MongoDB, and Mongoose, the platform processes real-time weather information and uses Google Gemini AI to transform raw weather data into easy-to-understand summaries and personalized suggestions.
+
+The system provides secure user authentication using JWT and bcrypt, along with features for saving and managing favorite locations. Its RESTful APIs allow users to retrieve weather information, generate AI-based environmental insights, and manage personalized data.
+
+To improve reliability, the platform includes a fallback mechanism that maintains essential functionality when external weather or AI services are unavailable. It also incorporates centralized error handling, input sanitization, and modular API architecture, making the application secure, reliable, and scalable.# Weather-wise
